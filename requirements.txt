@@ -1,0 +1,13 @@
+Django==4.2.6
+django-tailwind
+reportlab
+numpy==1.26.4
+djangorestframework
+django-simple_history
+setuptools
+django-channels
+setuptools
+cmake
+dlib
+face_recognition
+cvzone
